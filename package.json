@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/olabk/learning-git-2#readme",
   "devDependencies": {
-    "browser-sync": "^2.27.10"
+    "browser-sync": "^2.27.10",
+    "html-validate": "^7.5.0"
   }
 }
